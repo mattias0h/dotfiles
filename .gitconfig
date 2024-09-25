@@ -3,8 +3,8 @@
   browse = yes
 
 [user]
-  # name = Kristjan Rang [you]
-  # email = mail@rang.ee [you]
+  name = Mattias Hint
+  email = mattias.hint@skyltmax.se
   # signingkey = ~/.ssh/id_rsa.pub.sign [you] uncomment if you want to gpg sign commits
 
 [gpg]
